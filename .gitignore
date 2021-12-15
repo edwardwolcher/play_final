@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+output
+.DS_Store
+.python-version
+node_modules
+.env
+models
+placard.pages
